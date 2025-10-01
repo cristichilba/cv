@@ -13,26 +13,6 @@ title: "Cristian Chilba - CV"
 
 ---
 
-## 💻 Skills
-- Backend development  
-- Frontend development  
-- API integration  
-- Technical analysis  
-- Microservices architecture  
-- Machine learning integration  
-- Automated testing  
-- Requirements analysis  
-
----
-
-## 🌐 Languages
-- **Romanian**: Native  
-- **English**: Fluent  
-- **French**: Intermediate  
-- **Italian**: Elementary (currently studying with Duolingo)  
-
----
-
 ## 📝 Professional Summary
 Experienced professional engineer specializing in the development of high-quality, full-stack solutions. Proven ability to deliver impactful results through effective collaboration and adaptability. Proficient in modern web technologies, backend systems, and agile methodologies. Recognized for reliability, flexibility, and a strong commitment to driving team success.
 
@@ -42,14 +22,15 @@ Experienced professional engineer specializing in the development of high-qualit
 
 **Senior Full Stack Developer** – Mühlemann+popp AG *(Remote)*  
 *September 2020 – Present*  
-**Tech Stack:**  
+
+##### Tech Stack:
 - PHP, Symfony, API Platform, Python  
 - Vue.js, TypeScript, LESS, SASS, Tailwind CSS  
 - Docker, Google Cloud  
 - RabbitMQ, Redis, ElasticSearch  
 - REST, GraphQL  
 
-**Responsibilities:**  
+##### Responsibilities:
 - Analyzed, refactored, and modernized 3 legacy applications  
 - Worked closely with Swiss clients to build and maintain enterprise-grade applications and APIs  
 - Integrated code quality tools and best practices into development workflows  
@@ -60,11 +41,12 @@ Experienced professional engineer specializing in the development of high-qualit
 
 **Freelance Tech Lead** – Upwork.com *(Remote)*  
 *August 2018 – September 2020*  
-**Tech Stack:**  
+
+##### Tech Stack:
 - PHP, Symfony, WordPress  
 - AWS, DreamHost  
 
-**Responsibilities:**  
+##### Responsibilities:
 - Led web/API development and project management for a China-based, US-owned company providing cellular IoT solutions  
 - Handled cloud infrastructure, sysadmin tasks, and website maintenance  
 - Engineered enterprise-class applications and API solutions to support complex business needs  
@@ -93,8 +75,35 @@ Experienced professional engineer specializing in the development of high-qualit
 
 ---
 
+## 💻 Skills
+
+- Backend development  
+- Frontend development  
+- API integration  
+- Technical analysis  
+- Microservices architecture  
+- Machine learning integration  
+- Automated testing  
+- Requirements analysis  
+
+---
+
+## 🌐 Languages
+- **Romanian**: Native  
+- **English**: Fluent  
+- **French**: Intermediate  
+- **Italian**: Elementary (currently studying with Duolingo)  
+
+---
+
 ## 🎤 Conferences
 - Presented *“Web Application for Calories and Macronutrients Management”* at the Annual Scientific Conference of Students (2018)  
+
+---
+
+## 📝 Publications
+- Published [Comparison of DotKernel and Symfony as PHP frameworks](https://ieeexplore.ieee.org/abstract/document/9223157) at the 2020 12th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)
+
 
 ---
 
