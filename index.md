@@ -3,13 +3,26 @@ layout: default
 title: "Cristian Chilba - CV"
 ---
 
-# Cristian Chilba
-**Senior Full-Stack Web Developer**
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap; margin: 30px 0;">
+  <!-- Profile photo -->
+<div style="width:140px; height:140px; border-radius:50%; overflow:hidden;">
+    <img src="assets/profile.jpg" alt="Cristian Chilba" style="width:100%; height:100%; object-fit:cover; object-position:50% 20%; transform:scale(1.2);">
+</div>
 
-📍 Oradea, Romania  
-📞 +40 732 125 803  
-✉️ chilba.cristi@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/cristian-chilba) | [GitHub](https://github.com/cristichilba)
+  <!-- Name + Title -->
+<div>
+    <h1 style="margin: 0;">Cristian Chilba</h1>
+    <h3 style="margin: 5px 0 0 0; font-weight: normal;">Senior Full-Stack Web Developer</h3>
+    <p style="margin: 8px 0 0 0;">
+      📍 Oradea, Romania <br>
+      📞 +40 732 125 803 <br>
+      ✉️ <a href="mailto:chilba.cristi@gmail.com">chilba.cristi@gmail.com</a><br>
+      🔗 <a href="https://linkedin.com/in/cristian-chilba">LinkedIn</a> | 
+         <a href="https://github.com/cristichilba">GitHub</a>
+    </p>
+  </div>
+
+</div>
 
 ---
 
